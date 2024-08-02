@@ -734,7 +734,7 @@ img {
   gap: 8px;
 }
 
-.answer-text span {
+.answer-text-span {
   display: inline-flex;
   align-items: center;
   justify-content: center;
